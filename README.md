@@ -1,10 +1,11 @@
+<!--
 <table border="0" align="center" width="100%">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asurpbs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> </td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=asurpbs&theme=dark&hide_border=false" alt="Streak Stats"/> 
     </td>
   </tr>
-</table>
+</table> -->
 <hr>
 <div align="right">
   <h5>
