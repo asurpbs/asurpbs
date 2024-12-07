@@ -6,7 +6,7 @@
 <table border="0" align="center" width="100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact" alt="Top Languages"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=asurpbs&theme=github_dark&hide_border=true&layout=compact" alt="Streak Stats"/> 
