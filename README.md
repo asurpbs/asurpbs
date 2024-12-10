@@ -39,3 +39,6 @@
   &nbsp;
   </h5>
 </div>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=79&color=gradient&section=footer">
+</p>
