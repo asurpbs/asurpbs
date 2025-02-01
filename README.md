@@ -1,20 +1,19 @@
 ### 📊 GitHub Stats
+<p align="left">
+  <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/interval:today?label=today">
+  <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/U07EAVBK85Q/interval:30_days?label=last%2030d">
+  <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07EAVBK85Q/interval:all_time&label=All%20time&color=blue">
+</p>
 <table border="0" align="center" width="100%">
   <tr>
-    <td width="50%">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthlpbs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
-    <td width="50%">
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=asurpbs&theme=github_dark&hide_border=true&layout=compact" alt="Streak Stats"/> 
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact" alt="This Week Stats"/>
-    </td>
-  </tr>
 </table>
-
 
 ---
 
@@ -24,23 +23,14 @@
   <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/U07EAVBK85Q/interval:30_days?label=last%2030d">
   <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07EAVBK85Q/interval:all_time&label=All%20time&color=blue">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact" alt="Top Languages"/>
-</p>
 
----
+<details>
+  <summary><b>More Info</b></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact" alt="WakaTime Stats"/>
+  </p>
+</details>
 
-### 📊 GitHub Stats
-<table border="0" align="center" width="100%">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthlpbs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asurpbs&theme=github_dark&hide_border=true&layout=compact" alt="Streak Stats"/> 
-    </td>
-  </tr>
-</table>
 
 ---
 
