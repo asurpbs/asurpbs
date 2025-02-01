@@ -1,12 +1,9 @@
----
-### My self
 ### 🕰️ WakaTime Coding Stats
-<p align="left">
+<p align="center">
   <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/interval:today?label=today">
   <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/U07EAVBK85Q/interval:30_days?label=last%2030d">
   <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07EAVBK85Q/interval:all_time&label=All%20time&color=blue">
 </p>
-
 <details>
   <summary><b>More Info</b></summary>
   <p align="left">
