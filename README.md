@@ -1,15 +1,11 @@
-<div align="center">
-  <h1>Hi, I'm Mithila Prabashwara! 👋</h1>
-  <p>A passionate developer exploring technology and security.</p>
-</div>
-
----
-
 ### 🕰️ WakaTime Coding Stats
 <p align="center">
   <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/interval:today?label=today">
   <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/U07EAVBK85Q/interval:30_days?label=last%2030d">
   <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07EAVBK85Q/interval:all_time&label=All%20time&color=blue">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -18,7 +14,7 @@
 <table border="0" align="center" width="100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthlpbs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=asurpbs&theme=github_dark&hide_border=true&layout=compact" alt="Streak Stats"/> 
