@@ -1,4 +1,3 @@
-### 📊 GitHub Stats
 <table align="center" width="100%" border="0">
   <tr>
     <td>
@@ -22,7 +21,7 @@
     <a href="https://linkedin.com/in/mithilaprabashwara" target="_blank">
       <img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" height="16"/>
     </a>
-    &nbsp; Github Accounts &nbsp;&nbsp;:&nbsp;&nbsp;
+    &nbsp;Other Github Accounts &nbsp;&nbsp;:&nbsp;&nbsp;
     <a href="https://github.com/mthlpbs" target="_blank">
       <img align="center" src="https://www.svgrepo.com/show/450156/github.svg" alt="GitHub" height="20"/>
     </a>
