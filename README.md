@@ -1,17 +1,3 @@
-<!-- my stats  -->
-### 🕰️ WakaTime Coding Stats
-<p align="center">
-  <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/interval:today?label=today">
-  <img src="https://waka.hackclub.com/api/badge/U07EAVBK85Q/U07EAVBK85Q/interval:30_days?label=last%2030d">
-  <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U07EAVBK85Q/interval:all_time&label=All%20time&color=blue">
-</p>
-<details>
-  <summary><b>More Info</b></summary>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07EAVBK85Q&api_domain=waka.hackclub.com&theme=github_dark&title_color=2F855A&icon_color=2F855A&text_color=ffffff&&hide_border=true&custom_title=This%20Week%20Stats&layout=compact" alt="WakaTime Stats"/>
-  </p>
-</details>
-
 ### 📊 GitHub Stats
 <table align="center" width="100%" border="0">
   <tr>
